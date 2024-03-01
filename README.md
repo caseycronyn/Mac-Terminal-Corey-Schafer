@@ -4,10 +4,10 @@ Commands from this video https://www.youtube.com/watch?v=TXzrk3b9sKM
 |------------|----------------------|----------------------------------|
 | Navigation | ctrl + a             | Move to start of line            |
 |            | ctrl + e             | Move to end of line              |
-|            | option + left / right       | Move by word                     |
+|            | option + left / right       | Move by word                 |
 |            | option + click       | Move to click                    |
-| Editing    | ctrl + u             | Delete before cursor             |
-|            | ctrl + k             | Delete after cursor              |
+| Editing    | ctrl + u             | Delete the line                  |
+|            | ctrl + k             | Delete to end of line              |
 |            | Tab                  | Auto-complete                    |
 |            | Drag and drop folder | Paste terminal path              |
 |            | up/down                  | Scroll through previous commands |
