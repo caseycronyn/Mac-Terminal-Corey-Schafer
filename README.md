@@ -1,6 +1,19 @@
 Commands from this video https://www.youtube.com/watch?v=TXzrk3b9sKM
 
-![image](https://github.com/caseycronyn/Mac-Terminal-Corey-Schafer/assets/121722351/0a384f16-7ed8-431c-8bce-df30c2780b30)
+| Category   | Shortcut             | Action                           |
+|------------|----------------------|----------------------------------|
+| Navigation | ctrl + a             | Move to start of line            |
+|            | ctrl + e             | Move to end of line              |
+|            | option + left / right       | Move by word                     |
+|            | option + click       | Move to click                    |
+| Editing    | ctrl + u             | Delete before cursor             |
+|            | ctrl + k             | Delete after cursor              |
+|            | Tab                  | Auto-complete                    |
+|            | Drag and drop folder | Paste terminal path              |
+|            | up/down                  | Scroll through previous commands |
+|            | ! + "text/ number"   | Search and run previous command  |
+|            | history              | Show history of commands         |
+|            | ctrl + r             | Search for previous command      |
+|            | ctrl + l             | Clear screen                     |
+|            | cmd + k              | Clear scrollback                 |
 
-
-[Mac Terminal Corey Schafer.pdf](https://github.com/caseycronyn/Mac-Terminal-Corey-Schafer/files/14463954/Mac.Terminal.Corey.Schafer.pdf)
